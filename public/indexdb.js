@@ -3,7 +3,7 @@ const indexdb = window.indexedDB
 let db;
 let request = indexdb.open('budget-tracker', 1);
 request.onupgradeneeded = ({ target }) => {
-  let db = traget.result;
+  let db = target.result;
   db.createObjectStore("entries", { autoIncrement: true })
 }
 
