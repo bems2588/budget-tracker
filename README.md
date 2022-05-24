@@ -17,3 +17,9 @@ This app lets users keep track of their expenses. Its PWA format is perfect for 
 ## Contributors
 
 * Bruno Marcenaro
+
+## Personal Info
+
+* Visit my Github page at  https://github.com/bems2588
+* Contact me at bems2588@gmail.com
+
